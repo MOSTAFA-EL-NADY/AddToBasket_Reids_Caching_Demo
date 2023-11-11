@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket_Caching_Demo", "Basket_Caching_Demo\Basket_Caching_Demo.csproj", "{2BD0E7DE-232D-41D3-9AA5-E15D70BC726E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD0E7DE-232D-41D3-9AA5-E15D70BC726E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD0E7DE-232D-41D3-9AA5-E15D70BC726E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD0E7DE-232D-41D3-9AA5-E15D70BC726E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD0E7DE-232D-41D3-9AA5-E15D70BC726E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6685CA0-159A-4221-856F-564277403171}
+	EndGlobalSection
+EndGlobal
